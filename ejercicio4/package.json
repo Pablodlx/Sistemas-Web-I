@@ -1,0 +1,13 @@
+{
+  "name": "ejercicio4",
+  "version": "1.0.0",
+  "description": "Servidor Node.js para scraping periódico",
+  "type": "module",
+  "main": "ejercicio4.js",
+  "scripts": {
+    "start": "node ejercicio4.js"
+  },
+  "dependencies": {
+    "cheerio": "1.0.0-rc.12"
+  }
+}
